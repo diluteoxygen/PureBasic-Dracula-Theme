@@ -1,0 +1,24 @@
+{
+  "name": "PureBasic-Dracula",
+  "displayName": "Dracula - A dark theme for PureBasic",
+  "description": "Based on Default theme",
+  "version": "0.1.0",
+  "author": {
+    "name": "DiluteOxygen",
+    "email": "diluteoxygen@gmail.com",
+    "url": "https://github.com/diluteoxygen"
+  },
+  "publisher": "PureBasic",
+  "license": "MIT License",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "PureBasicDracula",
+        "path": "."
+      }
+    ]
+  }
+}
