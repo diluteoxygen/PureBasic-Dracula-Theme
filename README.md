@@ -1,20 +1,24 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [PureBasic IDE](https://www.purebasic.com/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [PureBasic IDE](https://www.purebasic.com/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/diluteoxygen/PureBasic-Dracula-Theme/master/screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+- Download the ```PureBasicDracula.prefs``` file.
+- Open PureBasic IDE ```File > Preferences > Import/Export``` 
+- Select PureBasicDracula.prefs in ```Load From``` section and click Open.
+- Select ```Include Color Settings``` and Import Settings.
+- Apply. (you may need to relaunch PureBasic)
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![DiluteOxyge](https://github.com/diluteoxygen.png?size=100)](https://github.com/diluteoxygen) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [DiluteOxygen](https://github.com/diluteoxyge)                                               |
 
 ## Community
 
